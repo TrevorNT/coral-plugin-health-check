@@ -1,6 +1,6 @@
 {
   "name": "coral-plugin-health-check",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Coral Talk plugin that responds to /_health.",
   "main": "index.js",
   "scripts": {

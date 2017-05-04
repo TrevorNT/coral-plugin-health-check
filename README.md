@@ -1,2 +1,2 @@
 # coral-plugin-health-check
-A simple Coral plugin that returns a 204 No Content when a particular endpoint is hit.
+A simple Coral plugin that returns a 200 OK with some status info when /_health is hit.
