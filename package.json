@@ -1,0 +1,25 @@
+{
+  "name": "coral-plugin-health-check",
+  "version": "0.1.0",
+  "description": "A Coral Talk plugin that responds to /_health.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrevorNT/coral-plugin-health-check"
+  },
+  "keywords": [
+    "Coral",
+    "Talk",
+    "health",
+    "check"
+  ],
+  "author": "Trevor Toryk (Trevor.Toryk@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrevorNT/coral-plugin-health-check/issues"
+  },
+  "homepage": "https://github.com/TrevorNT/coral-plugin-health-check"
+}
